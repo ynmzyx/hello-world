@@ -1,5 +1,5 @@
 # hello-world
 
-A simple example project
+这是一个简单的示例项目
 
-Hi, I am yx from China.
+嘿，我是yx，来自中国。
